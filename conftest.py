@@ -33,4 +33,4 @@ def browser(request):
     yield browser
     browser.quit()
 
-#     TODO разобраться с тем как работает этот код по ссылке https://automated-testing.info/t/oshibka-pri-zapuske-pytest-language-es-test-items-py-error-pytest-error-unrecognized-arguments-language-es/22952
+
